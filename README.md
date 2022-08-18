@@ -1,2 +1,2 @@
 # landfill-data
-Syracuse data to be analyzed
+Here I am going to demonstrate some data visualizatrions using andaconda with python 
